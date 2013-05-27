@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+* {
+	font-family: 'Droid Sans', sans-serif;
+}
+
+.response {
+	font-family: monospace;
+	white-space: pre;
+}
+
+img {
+	width: 200px;
+	height: 100px;
+}
+
+.drop-box {
+	width: 400px;
+	height: 200px;
+	padding: 10px;
+	color: #ffc;
+	border-radius: 20px;
+}
+
+
+
